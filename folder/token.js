@@ -5,4 +5,4 @@ function get_token() {
   
 }
 
-export.getToken = get_token
+exports.getToken = get_token
